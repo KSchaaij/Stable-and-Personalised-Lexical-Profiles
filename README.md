@@ -4,7 +4,7 @@ Code for TSD Conference paper 2025: Towards Stable and Personalised Profiles for
 This repository contains resources for the paper:
 
 **Towards Stable and Personalised Profiles for Lexical Alignment in Spoken Human-Agent Dialogue**
-by Keara Schaaij, Roel Boumans, Tibor Bosse & Iris Hendrickx 
+by Keara Schaaij, Roel Boumans, Tibor Bosse, and Iris Hendrickx 
 
 ## Data
 
