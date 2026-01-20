@@ -1,4 +1,4 @@
-Transcript Number;Time;Gender
+Transcript Number;Time in min;Gender
 1083;180;male
 1551;62;male
 1444;115;male
@@ -49,3 +49,4 @@ Transcript Number;Time;Gender
 602;137;male
 1106;137;male
 1125;119;male
+
