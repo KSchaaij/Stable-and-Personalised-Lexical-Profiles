@@ -5,9 +5,8 @@ import os
 
 """ 
 This script was used for data preprocessing.
-The interview transcripts are subject to usage restrictions and cannot be shared as part of this repository.
-Users must obtain the transcripts independently from the official source:
-https://www.nlveteraneninstituut.nl/onderzoek/interviewcollectie/
+This script is based on the transcripts as provided to us in a docx format, 
+some parts might need to be adjusted when running on transcripts in slightly different formats.
 """
 
 def extract_text(path):
@@ -113,4 +112,5 @@ for filename in os.listdir(directory):
     print(filename)
     file_path = os.path.join(directory, filename)
     extract_text(file_path)
+
 
