@@ -1,4 +1,4 @@
-Explanation of the main scripts:
+Additional information to run the main scripts provided in this repository:
 1. preprocessing_data.py
 	Obtain de preprocessed data and files required for further processing
 	Obtain the metadata csv file
@@ -10,7 +10,6 @@ Explanation of the main scripts:
 	Need to adjust the name of the lexical profile by hand
 
 3. postprocessing_profiles.py
-	Adjust the ngrams from the get_lexical_features.py file to include only the most informative ones. 
 	Need to adjust the name of the lexical profile by hand (e.g. the amount of top most terms present)
 	Need to adjust the file used by hand (folder_d)
 
@@ -19,3 +18,4 @@ Explanation of the main scripts:
 		Obtain the language alignment measures
 		Creates a new subfolder with the results
 		Need to manually adjust which setting is being evaluated
+
