@@ -8,7 +8,7 @@ by Keara Schaaij, Roel Boumans, Tibor Bosse, and Iris Hendrickx
 
 ## :file_folder: Repository Information
 
-This repository contains the code scripts corresponding to profile extraction and evaluation as described in our paper. To keep the repository concise, plotting scripts are excluded. The corresponding results are reported and discussed our paper.
+This repository contains the code scripts corresponding to profile extraction and evaluation as described in our paper. Note that a single script is used for several steps in our work, this needs to be adjusted by hand (see Information_script.txt). To keep the repository concise, plotting scripts are excluded. The corresponding results are reported and discussed our paper.
 
 **Important note.** The scripts have been restructured and reorganised to improve logical organisation of our repository. As a result, directory paths and file references from the original project may no longer be valid.
 
