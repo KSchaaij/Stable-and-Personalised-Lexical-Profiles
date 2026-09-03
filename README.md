@@ -1,4 +1,4 @@
-# Stable-and-Personalised-Lexical-Profiles
+# Stable and Personalised Lexical Profiles
 Code for TSD Conference paper 2025: Towards Stable and Personalised Profiles for Lexical Alignment in Spoken Human-Agent Dialogue
 
 This repository contains resources for the paper:
@@ -6,23 +6,23 @@ This repository contains resources for the paper:
 **Towards Stable and Personalised Profiles for Lexical Alignment in Spoken Human-Agent Dialogue**
 by Keara Schaaij, Roel Boumans, Tibor Bosse, and Iris Hendrickx 
 
-## Data
+## :file_folder: Repository Information
 
+This repository contains the code scripts corresponding to profile extraction and evaluation as described in our paper. To keep the repository concise, plotting scripts are excluded. The corresponding results are reported and discussed our paper.
+
+**Important note.** The scripts have been restructured and reorganised to improve logical organisation of our repository. As a result, directory paths and file references from the original project may no longer be valid.
+
+## :spiral_notepad: Data 
 The spoken dialogue transcripts used for constructing lexical profiles in in this study are subject to access and usage restrictions imposed by the data providers and therefore cannot be shared publicly. 
 Researchers that want to reproduce the experiments or reuse (part of) the code must obtain the transcripts from the original sources and ensure compliance with the relevant terms of use from the provider.
 
-**Data source**
-
+**Data source** \
 Nederlands Veteraneninstituut (NLVI): Interviewcollectie Nederlandse veteranen (ICNV) (2024). https://www.veteranenvertellen.nl/
 
-The following interview ID's from the ICNV collection were used in this study:
-
+The following interview ID's from the ICNV collection are used in our work:
 [243, 349, 436, 451, 566, 596, 597, 602, 605, 606, 611, 616, 716, 750, 781, 789, 797, 798, 804, 815, 852, 966, 967, 968, 973, 1016, 1026, 1063, 1083, 1106, 1125, 1297, 1299, 1300, 1301, 1302, 1323, 1324, 1413, 1444, 1445, 1463, 1487, 1551, 1630, 1650, 1651, 1668, 1672, 1700]. 
 
-And _metadata_ICNV.csv_ contains additional information for these transcripts including gender of the speaker and duration of the interview. 
-
-## Citation
-
+## :black_nib: Citation
 If you want to use this work, please cite as: 
 
 ```bibtex
